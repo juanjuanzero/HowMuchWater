@@ -1,5 +1,5 @@
 # HowMuchWater
-A small python application that allows users to request streamflow data from the USGS API using user defined fields and create a report of the chart using Bokeh. The code uses 
+A small python application that allows users to request streamflow data from the USGS API using user defined fields and create a report of the chart using Bokeh. The code uses Python 3.6.5 and was developed in Jupyter Notebooks 5.0.0.
 
 I just wanted to say a big **THANK YOU** to my mentors Alex Hagerman, Steve Watkins and Steven Schweinhart. I really appreciated all of your help, insight and willingness to teach me.
 
